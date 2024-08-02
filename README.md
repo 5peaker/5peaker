@@ -49,7 +49,4 @@ src="https://img.shields.io/github/followers/5peaker?logo=github&style=for-the-b
 <a href="http://www.github.com/5peaker"><img src="https://github-readme-stats.vercel.app/api?username=5peaker&show_icons=true&hide=prs,&count_private=true&title_color=f97316&text_color=22c55e&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="5peaker's GitHub stats" /></a>
 
 ### Support Me
-
-<ul style="list-style-type: none; margin: 0;">
 <a href="https://www.buymeacoffee.com/madamania"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
-</ul>
