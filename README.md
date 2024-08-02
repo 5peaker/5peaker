@@ -37,10 +37,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/5peaker/5peaker/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
