@@ -16,7 +16,7 @@ src="https://img.shields.io/github/followers/5peaker?logo=github&style=for-the-b
 
 ### Skills
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Firefox-FF7139?logo=firefox&logoColor=black&style=for-the-badge" height="30" alt="firefox logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Apple-000000?logo=apple&logoColor=white&style=for-the-badge" height="30" alt="apple logo"  />
